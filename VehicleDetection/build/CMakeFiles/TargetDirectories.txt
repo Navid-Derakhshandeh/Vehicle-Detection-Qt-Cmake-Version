@@ -1,0 +1,5 @@
+/home/navid/VehicleDetection/build/CMakeFiles/VehicleDetection.dir
+/home/navid/VehicleDetection/build/CMakeFiles/edit_cache.dir
+/home/navid/VehicleDetection/build/CMakeFiles/rebuild_cache.dir
+/home/navid/VehicleDetection/build/CMakeFiles/VehicleDetection_autogen_timestamp_deps.dir
+/home/navid/VehicleDetection/build/CMakeFiles/VehicleDetection_autogen.dir
