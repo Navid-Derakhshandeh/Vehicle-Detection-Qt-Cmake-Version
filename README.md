@@ -1,4 +1,4 @@
-# Vehicle-Detection-Qt-Cmake-Version
+#Vehicle-Detection-Qt-Cmake-Version
 
 <img width="813" height="635" alt="Screenshot From 2025-10-18 16-11-30" src="https://github.com/user-attachments/assets/dd12058d-4594-459b-a20a-75f27a6bf52d" />
 
