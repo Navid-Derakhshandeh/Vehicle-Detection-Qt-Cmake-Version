@@ -1,5 +1,13 @@
 # Vehicle-Detection-Qt-Cmake-Version
 
+To run this application, execute the following commands in your terminal. These commands are based on my operating system, Ubuntu:
+
+sudo apt install qtbase5-dev qt5-qmake cmake g++ libopencv-dev 
+
+Then, replace your camera's IP address in the following line:
+
+cap.open("http://IP-Address/mjpg/video.mjpg");
+
 <img width="813" height="635" alt="Screenshot From 2025-10-18 16-11-30" src="https://github.com/user-attachments/assets/dd12058d-4594-459b-a20a-75f27a6bf52d" />
 
 <img width="809" height="642" alt="Screenshot From 2025-10-18 16-16-34" src="https://github.com/user-attachments/assets/85d8867e-1da6-4dc2-8e03-b55c45a1fb81" />
