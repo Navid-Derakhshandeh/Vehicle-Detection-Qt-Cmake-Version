@@ -17,3 +17,8 @@ cap.open("http://IP-Address/mjpg/video.mjpg");
 <img width="812" height="637" alt="Screenshot From 2025-10-18 22-11-53" src="https://github.com/user-attachments/assets/c52252a8-f333-4d9a-bdf8-017446b09ef7" />
 
 <img width="812" height="637" alt="Screenshot From 2025-10-18 22-11-59" src="https://github.com/user-attachments/assets/c0f6513b-9ed0-4227-9a96-a13e5d1acb87" />
+
+<img width="1492" height="631" alt="Screenshot From 2025-10-20 18-53-09" src="https://github.com/user-attachments/assets/47dc12e7-3a95-4f83-abe2-25d4a4923071" />
+
+<img width="1492" height="631" alt="Screenshot From 2025-10-20 18-53-17" src="https://github.com/user-attachments/assets/e5844752-ee54-4916-ab6e-60a383173758" />
+
