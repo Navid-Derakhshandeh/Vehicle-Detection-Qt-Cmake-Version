@@ -4,6 +4,10 @@ To run this application, execute the following commands in your terminal. These 
 
 sudo apt install qtbase5-dev qt5-qmake cmake g++ libopencv-dev 
 
+Then, replace the path to your XML dataset model in the following line: 
+
+carCascade.load("dataset.xml");
+
 Then, replace your camera's IP address in the following line:
 
 cap.open("http://IP-Address/mjpg/video.mjpg");
